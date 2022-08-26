@@ -1,6 +1,6 @@
-<h2 align="center">Hi there 👋, I'm Fedor</h2> 
-<h3 align="center">Applied physics PhD, developer's larva</h3>
-<br>
+## Hi there 👋, I'm Fedor
+
+I am Applied physics PhD, developer's larva.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radioteddy&theme=github)
 
